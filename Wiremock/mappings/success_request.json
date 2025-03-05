@@ -1,0 +1,16 @@
+{
+    "mappings": [
+        {
+            "request": {
+                "method": "GET",
+                "urlPattern": "/success-request"
+            },
+            "response": {
+                "status": 200,
+                "jsonBody": {
+                    "deubom": "aceeerrrtooou"
+                }
+            }
+        }
+    ]
+}
